@@ -1,0 +1,20 @@
+Folder Name: usa-covid-policy
+
+This is policy data from Oxford University - accessed via github
+
+https://github.com/OxCGRT/USA-covid-policy
+
+Policy Paper Link: 
+https://www.bsg.ox.ac.uk/research/publications/variation-us-states-responses-covid-19
+
+Downloaded 10/27/2020 @~ 12:15 PM
+
+------------------------------------------------------------------------------------
+
+Folder Name ccse_covid
+
+This is the data from Johns Hopkins for Covid-19 - accessed via github.
+
+https://github.com/CSSEGISandData/COVID-19
+
+Initial download was 10/27/2020 @ 12:22 PM
